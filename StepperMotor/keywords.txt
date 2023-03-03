@@ -1,0 +1,5 @@
+StepperMotor	KEYWORD1
+RPMtoPulseDelay	KEYWORD2
+oneStep	KEYWORD2
+turnNRotations	KEYWORD2
+setStepperDistance	KEYWORD2
